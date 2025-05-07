@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/OPf7ucn2LdsYioUyir/giphy.gif" alt="GitHub Banner" width="10%" />
-# Hi, I’m Samiul Azam Shuvo:<br>
+
+<h1>Hi, I’m Samiul Azam Shuvo:<br></h1>
 🎓 Computer Science & Engineering Graduate | 💻 Competitive Programmer | 🌐 Full-Stack Developer<br><br>I’m passionate about building reliable software, solving challenging problems, and sharing knowledge through coding and collaboration. I have solved 1,200+ algorithmic problems on online judges like Codeforces, CodeChef, and AtCoder and participated in 90+ programming contests, including the ICPC Asia Dhaka Regional.<br><br>🔭 Currently exploring MERN stack development, software quality assurance, and cloud technologies.<br>🛠️ Experienced with JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, Java.<br>🚀 Interested in competitive programming, software testing, and contributing to open-source projects.<br>📚 Always learning new software engineering tools, frameworks, and best practices.
 
 
